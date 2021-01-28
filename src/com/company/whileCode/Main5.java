@@ -22,6 +22,7 @@ public class Main5 {
             if (copy == N) {
                 break;
             }
+
         }
         System.out.println(cnt);
     }
