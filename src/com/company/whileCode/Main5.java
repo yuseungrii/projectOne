@@ -15,6 +15,7 @@ public class Main5 {
         int cnt = 0;
         int copy = N;
 
+
         while (true) {
             N = ((N % 10) * 10) + (((N / 10) + (N % 10)) % 10);
             cnt++;
